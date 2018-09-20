@@ -25,11 +25,11 @@ public with sharing class accountController
             String datatoSend= data.remove(idPart);
             System.debug('.........datatosend...'+datatoSend);
             meth(datatoSend);
-             System.debug('.........datatosend...'+datatoSend);
-              System.debug('.........datatosend...'+datatoSend);
-                System.debug('.........datatosend...'+datatoSend);
-              System.debug('.........datatosend...'+datatoSend);  
-              System.debug('.........datatosend...'+datatoSend);
+           //  System.debug('.........datatosend...'+datatoSend);
+             // System.debug('.........datatosend...'+datatoSend);
+             //   System.debug('.........datatosend...'+datatoSend);
+            //  System.debug('.........datatosend...'+datatoSend);  
+            //  System.debug('.........datatosend...'+datatoSend);
               
            // a.Id=null;
         }
